@@ -1,2 +1,0 @@
-Corrección: función de suma ahora valida entradas.
-
