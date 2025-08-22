@@ -1,1 +1,2 @@
 Primera modificación en la rama desarrollo
+Nueva función: calcular promedio
